@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm doing cloud stuff!
+
 <!--
 **chris-fison/chris-fison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
